@@ -10,10 +10,10 @@
     "spotify",
     "rickroll"
   ],
+  "repository": "https://github.com/afilini/spotify-rick-rolled",
   "author": "Alekos Filini (@afilini)",
   "license": "MIT",
   "dependencies": {
-    "spotify-web-api-node": "^4.0.0",
-    "uuid": "^3.3.2"
+    "spotify-web-api-node": "^4.0.0"
   }
 }
