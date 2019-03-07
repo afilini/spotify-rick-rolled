@@ -1,0 +1,19 @@
+{
+  "name": "spotify-rick-rolled",
+  "version": "1.0.0",
+  "description": "Rick-Roll hackers who get in your Spotify account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotify",
+    "rickroll"
+  ],
+  "author": "Alekos Filini (@afilini)",
+  "license": "MIT",
+  "dependencies": {
+    "spotify-web-api-node": "^4.0.0",
+    "uuid": "^3.3.2"
+  }
+}
